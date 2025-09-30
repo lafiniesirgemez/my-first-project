@@ -1,0 +1,16 @@
+secret.md
+
+
+Tüm .txt dosyalarını yoksay
+*.txt
+
+Belirli bir dosyayı yoksay
+my-passwords.txt
+
+Belirli bir klasördeki tüm dosyaları yoksay
+drafts/*
+
+Tüm .txt dosyalarını yoksay, plans.txt hariç
+*.txt
+!plans.txt
+
